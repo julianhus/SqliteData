@@ -45,5 +45,6 @@ public class MainActivity extends AppCompatActivity {
             }
             myCursor.close();
         }
+        myDB.close();
     }
 }
