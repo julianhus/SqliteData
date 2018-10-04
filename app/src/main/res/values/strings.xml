@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SqliteData</string>
+    <string name="bar_code">Bar Code</string>
+    <string name="id_bar_code">insert Bar Code</string>
+    <string name="product_name">Product name</string>
+    <string name="insert_product_name">Insert Product Name</string>
+    <string name="safe_buttom">Safe</string>
+</resources>
